@@ -1,0 +1,40 @@
+body{  background-image:url('https://wallpaperaccess.com/full/22917.jpg') ;
+
+
+}
+.App {
+  background-image:'https://previews.123rf.com/images/blinow61/blinow611102/blinow61110200029/8964945-abstract-close-up-red-brick-wall-background.jpg' ;
+  text-align: center;
+}
+.name-rating{
+  padding:45px;
+  
+}
+
+#header-text{
+  width: 468px;
+  margin-left: 81px;
+}
+.rating{
+  margin-left: 35px;
+}
+.book-delete{
+  width:35px;
+}
+.book-edit{
+  width:35px;
+}
+.card1{
+  width: 35% ;
+  
+}
+.prompt-button{
+  padding: 41px;
+    margin-right: 897px;
+    width: 240px;
+    
+}
+.Titre{
+  color: rgb(139, 126, 149);
+}
+
